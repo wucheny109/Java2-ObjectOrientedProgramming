@@ -1,0 +1,13 @@
+Student ID | Course1 | Course2 | Course3 | Course4 | Course5 | Overall
+1            50.0      60.0      70.0      80.0      90.0      70.0
+2            60.0      70.0      80.0      90.0      100.0     80.0
+3            30.0      40.0      50.0      60.0      70.0      50.0
+4            40.0      50.0      60.0      70.0      80.0      60.0
+
+Results: 
+Overall of Course1: 45
+Overall of Course2: 55
+Overall of Course3: 65
+Overall of Course4: 75
+Overall of Course5: 85
+Overall of all students: 65
